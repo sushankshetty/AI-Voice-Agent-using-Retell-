@@ -1,0 +1,9 @@
+User Call
+   ↓
+Retell Voice Layer
+   ↓
+LLM Agent (Prompt + Knowledge Base)
+   ↓
+Tool Calls (Calendar / Transfer)
+   ↓
+Booking Confirmation
