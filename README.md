@@ -7,9 +7,9 @@ Small clinics rely heavily on manual reception handling, leading to missed calls
 Designed and deployed an AI-powered voice receptionist using Retell that automates appointment booking, prioritizes dental emergencies, follows healthcare-safe communication protocols, and drives consultation conversions.
 
 
-# 🦷 Ajila’s Dental Clinic – AI Voice Receptionist
+# 🦷 Dental Clinic – AI Voice Receptionist
 
-An AI-powered voice receptionist designed for Ajila’s Dental Clinic, Karkala, Karnataka.  
+An AI-powered voice receptionist designed for a Dental Clinic..  
 Built to automate appointment booking, handle patient inquiries, and prioritize dental emergencies using structured knowledge and workflow logic.
 
 ---
@@ -28,13 +28,7 @@ The AI receptionist is designed to:
 - 🧠 Follow structured healthcare communication rules
 - 🔒 Maintain professional and ethical standards
 
----
-
-## 🏥 Clinic Information
-
-**Clinic Name:** Ajila’s Dental Clinic  
-**Location:** Near Joduraste Junction, Karkala Taluk, Udupi District, Karnataka – 574104  
-**Doctor:** Dr. Chinmay Ajila, BDS, MDS  
+--- 
 
 The clinic focuses on:
 - Ethical & evidence-based dentistry
@@ -74,6 +68,6 @@ Convert inbound calls into confirmed consultation appointments.
 
 ---
 
-## 📂 Repository Structure
+
 
 
